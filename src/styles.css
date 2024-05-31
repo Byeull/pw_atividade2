@@ -1,0 +1,53 @@
+body {
+  width: 600px;
+  margin-left: 150px;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #999;
+}
+
+.form-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #0056b3;
+}
+
+ul {
+  padding: 0;
+  width: 620px;
+}
+
+.act-list-container {
+  margin-top: 50px;
+}
+
+.act-list-item {
+  list-style: none;
+  padding: 10px;
+  border: 1px solid #999;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.act-list-item:hover {
+  background-color: #e9e9e9;
+}
